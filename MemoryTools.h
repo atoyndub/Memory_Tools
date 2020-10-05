@@ -7,6 +7,8 @@ Description:	a stand-alone header file containing all definitions and implementa
 				associated with some memory managment tools
 ***************************************************************************************/
 
+//this is a test for committing a change in git
+
 #ifndef MEMORYTOOLS_H_INCLUDED
 #define MEMORYTOOLS_H_INCLUDED
 
